@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>14</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>Visor1</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>parallax</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/mellow/</ImageTemplate>
+            <ImageTemplateName>Mellow</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#000</TemplateColor>
+            <TemplateFont>Tahoma</TemplateFont>
+            <TemplateName>mellow</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>E:/git/app2-git/WOW/Android.jpg</url>
+                <title>Android</title>
+                <filesize>256778</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Celulares De La Actualidad.png</url>
+                <title>Celulares De La Actualidad</title>
+                <filesize>361440</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Celulares Del Futuro.jpg</url>
+                <title>Celulares Del Futuro</title>
+                <filesize>12861</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Celulares Por Gama.jpg</url>
+                <title>Celulares Por Gama</title>
+                <filesize>25996</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Celulares.jpg</url>
+                <title>Celulares</title>
+                <filesize>49659</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Motorola Dynatac 8000x.jpg</url>
+                <title>Motorola Dynatac 8000x</title>
+                <filesize>54638</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Philips - Celular Del Futuro.jpg</url>
+                <title>Philips - Celular Del Futuro</title>
+                <filesize>35927</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Telefonía Celular.jpg</url>
+                <title>Telefonía Celular</title>
+                <filesize>51970</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Telefonía.jpg</url>
+                <title>Telefonía</title>
+                <filesize>134448</filesize>
+            </Image>
+            <Image>
+                <url>E:/git/app2-git/WOW/Teléfono Celular.gif</url>
+                <title>Teléfono Celular</title>
+                <filesize>978477</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
